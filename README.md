@@ -15,7 +15,9 @@ The company's main database structure as seen below consists of four tables: Ord
 
 ![Data Flow Diagram Whiteboard in Dark Yellow Light Yellow Black Monochromatic Style (1)](https://github.com/user-attachments/assets/8ef18638-c061-45e6-bd56-a497aa8a1f84)
 
-The interactive dashboard can be found [here](https://public.tableau.com/views/BrosanoEssentialsSalesDashboard/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
+## Tableau Dashboard 
+![image](https://github.com/user-attachments/assets/5ea96b88-eadf-4b7d-93ca-b074ecbdfae5)
+The interactive dashboard can be found [here](https://public.tableau.com/views/BrosanoEssentialsSalesDashboard/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) for exploration. 
 
 ## Insight Deep Dive
 ### Sales Trends and Growth Rates
@@ -58,7 +60,6 @@ The interactive dashboard can be found [here](https://public.tableau.com/views/B
 ![regional sales trends](https://github.com/user-attachments/assets/65290051-a87b-478c-8660-bf7818e112e0)
 
 ## Recommendations and Next Steps 
-### Recommendations 
 **Capitalize on seasonal trends and Optimize promotion campaigns**: 
 - Ensure sufficient inventory is prepared ahead of time for September and November using historical data and forecasting the demand for accuracy. March requires a deeper analysis of sales drivers. 
 - Conduct a deep analysis of past promotions to assess their effectiveness. 
