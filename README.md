@@ -73,10 +73,11 @@ The interactive dashboard can be found [here](https://public.tableau.com/views/B
 - Consider bundle lower AOV items with high AOV products to increase recurring revenue.
 - Introduce a diversified product selection in areas where demand is growing to attract existing customers with more options.
 
-**Customer Acquisition & Retention**:
+**Customer Acquisition & Retention Strategies**:
 - Since repeat purchase rates increased YoY, prioritize programs to strengthen retention. Consider launching loyalty programs, exclusive discounts, or subscription models. 
 - The dataset lacks customer acquisition source data, making it impossible to evaluate Customer Acquisition Cost (CAC). To better understand the effectiveness of acquisition strategies, capturing acquisition source data is recommended for further analysis. 
 
-**Regional Sales**
+**Regional Resource Allocation**
 - Since West market leads the revenue and East market shows a steady growth, ensure stable supply in these regions. Introduce loyalty program to keep them engaged.
-- Growth has fluctuated over the years in Central. Consider further market research for the trend and customer purchasing patterns. 
+- Growth has fluctuated over the years in Central. Consider further market research for the trend and customer purchasing patterns.
+- Continue monitoring sales performance in South to identify potential opportunities for resource investment. 
