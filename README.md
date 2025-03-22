@@ -56,7 +56,7 @@ The interactive dashboard can be found [here](https://public.tableau.com/views/B
 ### Regional Sales Analysis
 - The West region leads in revenue, contributing 31.6% of total sales, with sales peaking at $250K in 2023.
 - The East region showed steady growth, with an 18% average annual increase from 2020 to 2023, suggesting strong market demand or effective marketing.
-- The Central region fluctuated over time, with a 43% increase in 2022, but a slight 0.22% dip in 2023.
+- The Central region fluctuated over time with a 43% increase in 2022. Recommend further investigation for this drastic surge. 
 - The South region had the lowest sales ($400K over four years) but showed growth from 2021 to 2023, with a 26% increase in 2022 and 28% in 2023.
 
 ![regional sales value](https://github.com/user-attachments/assets/4974b31d-7973-47f3-b4fc-d283eb16e1f9)
